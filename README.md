@@ -1,5 +1,5 @@
 Description
-This is a fully responsive college/university website built using React. The project includes key sections like Programs, About, Testimonials, and a Campus Gallery, designed to showcase front-end features for a smooth and user-friendly experience. 
+This is a fully responsive university website built using React. The project includes key sections like Programs, About, Testimonials, and a Campus Gallery, designed to showcase front-end features for a smooth and user-friendly experience. 
 
 Key Features
 Component-Based Architecture: Reusable components such as Navbar, Hero, Programs, About, Testimonials, Campus, and Tittle allow for easy updates and scalability.
